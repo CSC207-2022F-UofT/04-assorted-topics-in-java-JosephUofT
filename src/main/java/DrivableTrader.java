@@ -10,6 +10,7 @@
  * Look at DomesticatableTrader.java for an example.
  */
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class DrivableTrader<DT> extends Trader{
